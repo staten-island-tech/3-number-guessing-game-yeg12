@@ -14,4 +14,4 @@ if "s">="t":
 else:
      print ("English")
 
-lang("ttttttttttttttttttttttttttt")
+lang("sssssssssssssssssssssssss")
